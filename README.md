@@ -2,11 +2,8 @@
 
 - 🔭 Estudante de Análise e Desenvolvimento de Sistemas na UFRN
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=im-fernanda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-fernanda&layout=compact&langs_count=16&theme=dracula"/>
-</div>
-    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=im-fernanda&layout=donut-vertical&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Fernanda's github stats](https://github-readme-stats.vercel.app/api?username=im-fernanda&show_icons=true&theme=dracula)](https://github.com/im-fernanda/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
