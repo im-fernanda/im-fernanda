@@ -2,20 +2,22 @@
 
 - 🔭 Estudante de Análise e Desenvolvimento de Sistemas na UFRN
 
-### Habilidades principais:
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+<div style="inline-block" id="status">
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-fernanda&layout=compact&theme=dracula">
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=im-fernanda&show_icons=true&theme=dracula">
 
 </div>
 
-##
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=im-fernanda&layout=donut-vertical&theme=dracula)
-![Fernanda's github stats](https://github-readme-stats.vercel.app/api?username=im-fernanda&show_icons=true&theme=dracula)
-##
+### Habilidades principais:
+<div style="display: inline_block"><br>
+  <img align="center" alt="Fer-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Fer-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Fer-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Fer-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Fer-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+</div>
 
 
  ### Contato:
