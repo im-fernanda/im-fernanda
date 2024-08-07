@@ -1,6 +1,6 @@
 
 
-## Hi there! 👋 My name is Fernanda Felix
+## Hi there! 👋 I'm Fernanda Felix
 - 🎓 System Analisys and Development Student @[UFRN](https://www.ufrn.br/)
 - 👩‍💻 Intern @[MPRN](https://www.mprn.mp.br/)
 
