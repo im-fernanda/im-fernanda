@@ -1,9 +1,9 @@
 
-<div style="inline-block" id="status">
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-fernanda&layout=compact&theme=dracula">
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=im-fernanda&show_icons=true&theme=dracula">
 
-</div>
+## Hi there! 👋 My name is Fernanda Felix
+- 🎓 System Analisys and Development Student @[UFRN](https://www.ufrn.br/)
+- 👩‍💻 Intern @[MPRN](https://www.mprn.mp.br/)
+
 
 ### Main skills:
 <div style="display: inline_block">
@@ -24,6 +24,13 @@
   <a href="mailto:gilneidefernandaf@gmail.com">
     <img src="https://img.shields.io/badge/gilneidefernandaf@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
+
+<div style="inline-block" id="status">
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-fernanda&layout=compact&theme=dracula">
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=im-fernanda&show_icons=true&theme=dracula">
+
+</div>
+
 
 </div>
 
