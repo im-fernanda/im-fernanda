@@ -2,7 +2,7 @@
 
 ## Hi there! 👋 I'm Fernanda Felix
 - 🎓 System Analisys and Development Student @[UFRN](https://www.ufrn.br/)
-- 👩‍💻 Intern @[MPRN](https://www.mprn.mp.br/)
+- 👩‍💻 Intern @[STI](https://sti.ufrn.br)
 
 
 ### Main skills:
