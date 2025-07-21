@@ -25,7 +25,7 @@
 </a>
 
 <div style="inline-block" id="status">
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-fernanda&layout=compact&theme=dracula">
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-fernanda&layout=compact&theme=dracula&size_weight=0.3&count_weight=0.8">
     <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=im-fernanda&show_icons=true&theme=dracula">
 
 </div>
