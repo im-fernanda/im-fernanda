@@ -6,10 +6,10 @@
 
 ## 🛠️ **Habilidades Técnicas / Technical Skills**
 
-**Linguagens / Languages**: Java, Python, C++, Dart, SQL
-**Backend**: Spring Boot, PostgreSQL, Django, MongoDB, Redis, Docker, Hibernate
-**Frontend**: React, Angular, Thymeleaf, Bootstrap, HTML, CSS, Figma  
-**Arquitetura & Práticas / Architecture & Practices**: Clean Architecture, SOLID, MVVM, Git, GitLab, Scrum, Kanbam 
+- **Linguagens / Languages**: Java, Python, C++, Dart, SQL
+- **Backend**: Spring Boot, PostgreSQL, Django, MongoDB, Redis, Docker, Hibernate
+- **Frontend**: React, Angular, Thymeleaf, Bootstrap, HTML, CSS, Figma  
+- **Arquitetura & Práticas / Architecture & Practices**: Clean Architecture, SOLID, MVVM, Git, GitLab, Scrum, Kanbam 
 
 <div align="center">
     <div style="display: inline_block">
