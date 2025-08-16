@@ -27,18 +27,6 @@
     </div>
 </div>
 
-## 📂 **Projetos Relevantes / Highlighted Projects**
-
-**MCP Weather API** – [github/mcp-weather-api](https://github.com/im-fernanda/mcp-weather-api)  
-- API REST em Spring Boot para dados meteorológicos (WeatherAPI) / Spring Boot REST API for weather data (WeatherAPI).  
-- Integração com Orion Context Broker e histórico via QuantumLeap + Grafana / Integration with Orion Context Broker and history via QuantumLeap + Grafana.  
-
-**IoT City** – [github/iot-city](https://github.com/im-fernanda/iot-city)  
-- Gerenciamento de dispositivos IoT: backend Spring Boot + frontend React / IoT device management: Spring Boot backend + React frontend.  
-- Containerização com Docker e API para monitoramento/controle/análise / Dockerized; API for monitoring/control/analysis.  
-
----
-
 ## 📫 Contato / Contact
 - 📧 Email: gilneidefernandaf@gmail.com  
 - 🔗 LinkedIn: [linkedin.com/in/gilneide-fernanda](https://www.linkedin.com/in/gilneide-fernanda)  
