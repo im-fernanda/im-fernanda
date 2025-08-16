@@ -7,7 +7,7 @@
 ## 🛠️ **Habilidades Técnicas / Technical Skills**
 
 - **Linguagens / Languages**: Java, Python, C++, Dart, SQL
-- **Backend**: Spring Boot, PostgreSQL, Django, MongoDB, Redis, Docker, Hibernate
+- **Backend**: Spring Boot, PostgreSQL, Django, MongoDB, Hibernate, Redis, Docker, Keycloak
 - **Frontend**: React, Angular, Thymeleaf, Bootstrap, HTML, CSS, Figma  
 - **Arquitetura & Práticas / Architecture & Practices**: Clean Architecture, SOLID, MVVM, Git, GitLab, Scrum, Kanbam 
 
@@ -19,6 +19,7 @@
         <img align="center" alt="Django" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg">
         <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
         <img  align="center" alt="SQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+        <img align="center" alt="Keycloak" height="100" width="100" src="https://www.keycloak.org/resources/images/logo.svg"> 
         <img align="center" alt="Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
         <img align="center" alt="C++" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
         <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
