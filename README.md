@@ -30,7 +30,6 @@
 ## 📫 Contato / Contact
 - 📧 Email: gilneidefernandaf@gmail.com  
 - 🔗 LinkedIn: [linkedin.com/in/gilneide-fernanda](https://www.linkedin.com/in/gilneide-fernanda)  
-- 🌐 GitHub: [github.com/im-fernanda](https://github.com/im-fernanda)
 
 ## 🌐 **Idiomas / Languages**  
 - 🇬🇧 Inglês: Avançado (fluência oral e escrita) / English: Advanced (fluent speaking & writing)  
