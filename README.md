@@ -1,14 +1,14 @@
 # Hi there! 👋 I'm Fernanda Felix
 
-- 🎓 System Analisys and Development Student & B.Sc. in Physics @[UFRN](https://www.ufrn.br/)
-- 👩‍💻 Backend Developer | Java & Spring Boot | Python & Django
-- 🧩 Strong foundation in logic, mathematics, and analytical problem-solving  
+* 🎓 Systems Analysis and Development Graduate & B.Sc. in Physics @[UFRN](https://www.ufrn.br/)
+* 👩‍💻 Software Engineer | Java & Spring Boot | Python & FastAPI
+* 🧩 Strong foundation in logic, mathematics, and analytical problem-solving
 
 ## 🛠️ **Habilidades Técnicas / Technical Skills**
 
 - **Linguagens / Languages**: Java, Python, C++, Dart, SQL
-- **Backend**: Spring Boot, PostgreSQL, Django, MongoDB, Hibernate, Redis, Docker, Keycloak
-- **Frontend**: React, Angular, Thymeleaf, Bootstrap, HTML, CSS, Figma  
+- **Backend**: Spring Boot, FastAPI, Django, MongoDB, PostgreSQL, Redis, Docker, Keycloak
+- **Frontend**: React, Angular, Tailwind, Thymeleaf, Bootstrap, HTML, CSS, Figma  
 - **Arquitetura & Práticas / Architecture & Practices**: Clean Architecture, SOLID, MVVM, Git, GitLab, Scrum, Kanbam 
 
 <div align="center">
